@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Mobile-Android%20%7C%20Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android" alt="Android" />
   <img src="https://img.shields.io/badge/Connectivity-Bluetooth%20Low%20Energy%205.0-0082FC?style=for-the-badge&logo=bluetooth" alt="BLE" />
   <img src="https://img.shields.io/badge/Language-Kotlin%20%2F%20C%2B%2B-7F52FF?style=for-the-badge&logo=kotlin" alt="Kotlin / C++" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/Project-Academic%20Capstone%20Project-orange?style=for-the-badge&logo=googlescholar" alt="VIT-AP UNIVERSITY" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 - [Android Application Features](#-android-application-features)
 - [Emergency Dispatch Logic](#-emergency-dispatch-logic)
 - [Tech Stack](#-tech-stack)
-- [License](#-license)
+- [Academic Project Information](#-academic-project-information)
 
 ---
 
@@ -259,3 +259,12 @@ Status: Multi-part SMS Broadcast Sent + Continuous Audio Siren Active
 - **Testing Tools:** Web Bluetooth API (HTML5, JavaScript ES6)
 
 ---
+
+## 🎓 Academic Project Information
+
+- **Project Title:** Real-Time Crime Monitoring System: Crime Alert Pendant
+- **Domain:** Internet of Things (IoT) & Mobile Application Development
+- **Category:** Engineering Major / Capstone Project
+- **Purpose:** Developed and submitted in fulfillment of academic requirements, demonstrating IoT-to-Mobile communication, BLE GATT protocol implementation, and real-time personal safety dispatch mechanisms.
+
+> ⚠️ **Academic Notice:** This project was developed for college academic submission, evaluation, and research purposes. All rights reserved by the student project authors and academic institution.
